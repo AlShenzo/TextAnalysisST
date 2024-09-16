@@ -1,0 +1,2 @@
+# What is this project about
+### This project analyzes files in the folder and analyze the sentiment value of the texts. Which allow us to plot the graph to see correlation between positivity/negativity and dates.
